@@ -19,7 +19,7 @@ MuslimBot is a Discord bot designed to help users with prayer notifications, pra
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/username/MuslimBot.git
+git clone https://github.com/anisohn/MuslimBot.git
 cd MuslimBot
 ```
 
